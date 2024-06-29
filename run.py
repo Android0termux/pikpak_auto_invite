@@ -18,8 +18,8 @@ PROXY = ''
 # INVITE_CODE = os.getenv('INVITE_CODE') or input('请输入邀请码: ')
 PUSHPLUS_TOKEN = ''
 #这个填自己的邀请码，不要搞我，我乱填的
-#INVITE_CODE = '26712463'
-INVITE_CODE = os.getenv('INVITE_CODE') or input('请输入邀请码: ')
+INVITE_CODE = '52827897'
+#INVITE_CODE = os.getenv('INVITE_CODE') or input('请输入邀请码: ')
 PUSH_MSG = ''
 
 async def get_mail():
